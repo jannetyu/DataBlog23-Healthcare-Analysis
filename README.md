@@ -11,6 +11,9 @@ Below is a gif format of the maps I created:
 
 _Crude Rate of Cardiovascular Diseases in the US 2010-2020, Source: CDC.gov_
 
+Here is the link to my Tableau Public Dashboard of the map visualizations I created:
+https://public.tableau.com/app/profile/janet.yu6646/viz/DataBlogS23/Dashboard1
+
 For my team's entire article, please visit this link to read. (will update once our blog is published)
 
 My team members analyzed influenza crude rates, characteristics relating to one's access to private or public insurance e.g. race, and a predictive forest model including factors like age and sex that affect how much an individual's medical insurance costs. 
